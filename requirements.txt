@@ -2,3 +2,5 @@ ipython
 nbformat
 ipykernel
 pytest
+kaggle
+pandas
